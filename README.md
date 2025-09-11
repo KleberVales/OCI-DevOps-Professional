@@ -11,3 +11,4 @@
 ## 9. Setting Up Storage for Kubernetes Clusters within OKE
 ## 10. Administering and Managing OKE Clusters
 ## 11. Container Engine for Kubernetes Security
+## 12. OCI DevOps Project: Basics
