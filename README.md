@@ -6,3 +6,4 @@
 ## 4. Introduction to OKE and working with managed nodes
 ## 5. Setting up OKE Cluster access
 ## 6. Working with OKE Virtual Nodes
+## 7. Working with Self-Managed Nodes
