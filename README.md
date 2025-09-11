@@ -18,3 +18,4 @@
 ## 16. Terraform: Infrastructure as Code
 ## 17. OCI Resource Manager
 ## 18. DevSecOps
+## 19. Observability Services
