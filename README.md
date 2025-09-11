@@ -15,3 +15,4 @@
 ## 13. OCI DevOps Project: Continuous Integration and Continuous Delivery (CI/CD)
 ## 14. OCI DevOps Project: Deployment Strategies
 ## 15. OCI DevOps Project: Helm chart Deployments
+## 16. Terraform: Infrastructure as Code
