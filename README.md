@@ -12,3 +12,4 @@
 ## 10. Administering and Managing OKE Clusters
 ## 11. Container Engine for Kubernetes Security
 ## 12. OCI DevOps Project: Basics
+## 13. OCI DevOps Project: Continuous Integration and Continuous Delivery (CI/CD)
