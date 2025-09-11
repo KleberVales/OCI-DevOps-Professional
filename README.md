@@ -8,3 +8,4 @@
 ## 6. Working with OKE Virtual Nodes
 ## 7. Working with Self-Managed Nodes
 ## 8. managing kubernetes deployments
+## 9. Setting Up Storage for Kubernetes Clusters within OKE
