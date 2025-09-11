@@ -17,3 +17,4 @@
 ## 15. OCI DevOps Project: Helm chart Deployments
 ## 16. Terraform: Infrastructure as Code
 ## 17. OCI Resource Manager
+## 18. DevSecOps
