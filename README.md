@@ -14,3 +14,4 @@
 ## 12. OCI DevOps Project: Basics
 ## 13. OCI DevOps Project: Continuous Integration and Continuous Delivery (CI/CD)
 ## 14. OCI DevOps Project: Deployment Strategies
+## 15. OCI DevOps Project: Helm chart Deployments
