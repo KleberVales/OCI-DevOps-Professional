@@ -3,6 +3,7 @@
 ## 1. DevOps Introdutions
 
 - DevOps: Overview
+- OCI DevOps Service
   
 ## 2. Microservices and Containerization
 ## 3. Kubernetes Basics
