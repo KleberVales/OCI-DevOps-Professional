@@ -10,7 +10,7 @@
 ## 8. Gerenciando implantações no Kubernetes
 ## 9. Configurando Armazenamento para Clusters Kubernetes no OKE
 ## 10. Administrando e Gerenciando Clusters OKE
-## 11. Container Engine for Kubernetes Security
+## 11. Segurança no Container Engine for Kubernetes
 ## 12. OCI DevOps Project: Basics
 ## 13. OCI DevOps Project: Continuous Integration and Continuous Delivery (CI/CD)
 ## 14. OCI DevOps Project: Deployment Strategies
