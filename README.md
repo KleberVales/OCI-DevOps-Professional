@@ -18,6 +18,6 @@
 ## 16. Terraform: Infraestrutura como Código
 ## 17. OCI Resource Manager
 ## 18. DevSecOps
-## 19. Observability Services
+## 19. Serviços de Observabilidade
 
 https://education.oracle.com/race-to-certification-2025#oci
