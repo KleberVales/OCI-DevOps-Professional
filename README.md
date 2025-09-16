@@ -14,7 +14,7 @@
 ## 12. Projeto OCI DevOps: Conceitos Básicos
 ## 13. Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI/CD)
 ## 14. Projeto OCI DevOps: Estratégias de Implantação
-## 15. OCI DevOps Project: Helm chart Deployments
+## 15. Projeto OCI DevOps: Implantações com Helm Charts
 ## 16. Terraform: Infrastructure as Code
 ## 17. OCI Resource Manager
 ## 18. DevSecOps
