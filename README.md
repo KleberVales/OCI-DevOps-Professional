@@ -8,7 +8,7 @@
 ##  [6. Trabalhando com Nós Virtuais no OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Working-with-OKE-Virtual-Nodes)
 ## 7. Trabalhando com Nós Autogerenciados
 ## 8. Gerenciando implantações no Kubernetes
-## 9. Setting Up Storage for Kubernetes Clusters within OKE
+## 9. Configurando Armazenamento para Clusters Kubernetes no OKE
 ## 10. Administering and Managing OKE Clusters
 ## 11. Container Engine for Kubernetes Security
 ## 12. OCI DevOps Project: Basics
