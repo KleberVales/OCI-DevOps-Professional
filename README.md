@@ -7,7 +7,7 @@
 ##  [5. Configurando o acesso ao Cluster OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Setting-up-OKE-Cluster-access)
 ##  [6. Trabalhando com Nós Virtuais no OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Working-with-OKE-Virtual-Nodes)
 ## 7. Trabalhando com Nós Autogerenciados
-## 8. managing kubernetes deployments
+## 8. Gerenciando implantações no Kubernetes
 ## 9. Setting Up Storage for Kubernetes Clusters within OKE
 ## 10. Administering and Managing OKE Clusters
 ## 11. Container Engine for Kubernetes Security
