@@ -4,7 +4,7 @@
 ##  [2. Microsserviços e Conteinerização](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Microservices-and-Containerization)
 ##  [3. Fundamentos de Kubernetes](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Kubernetes-Basics)
 ##  [4. Introdução ao OKE e trabalho com nós gerenciados](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Introduction-to-OKE-and-working-with-managed-nodes)
-##  [5. Setting up OKE Cluster access](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Setting-up-OKE-Cluster-access)
+##  [5. Configurando o acesso ao Cluster OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Setting-up-OKE-Cluster-access)
 ##  [6. Working with OKE Virtual Nodes](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Working-with-OKE-Virtual-Nodes)
 ## 7. Working with Self-Managed Nodes
 ## 8. managing kubernetes deployments
