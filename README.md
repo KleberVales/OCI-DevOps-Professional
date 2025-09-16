@@ -13,7 +13,7 @@
 ## 11. Segurança no Container Engine for Kubernetes
 ## 12. Projeto OCI DevOps: Conceitos Básicos
 ## 13. Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI/CD)
-## 14. OCI DevOps Project: Deployment Strategies
+## 14. Projeto OCI DevOps: Estratégias de Implantação
 ## 15. OCI DevOps Project: Helm chart Deployments
 ## 16. Terraform: Infrastructure as Code
 ## 17. OCI Resource Manager
