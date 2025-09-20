@@ -5,7 +5,7 @@
 ##  [3. Fundamentos de Kubernetes](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Kubernetes-Basics)
 ##  [4. OKE e trabalho com nós gerenciados](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/OKE-e-trabalho-com-managed-nodes)
 ##  [5. Configurando o acesso ao Cluster OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Setting-up-OKE-Cluster-access)
-##  [6. Trabalhando com Virtual Nodes no OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Working-with-OKE-Virtual-Nodes)
+##  [6. Trabalhando com Virtual Nodes no OKE](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Trabalhando-com-Virtual-Nodes-no-OKE)
 ##  [7. Trabalhando com Nós Autogerenciados](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Trabalhando-com-N%C3%B3s-Autogerenciados)
 ##  [8. Gerenciando implantações no Kubernetes](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Gerenciando-implanta%C3%A7%C3%B5es-no-Kubernetes)
 ## 9. Configurando Armazenamento para Clusters Kubernetes no OKE
