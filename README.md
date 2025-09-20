@@ -17,7 +17,7 @@
 ## 15. Projeto OCI DevOps: Implantações com Helm Charts
 ## [16. Terraform: Infraestrutura como Código](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Terraform:-Infraestrutura-como-C%C3%B3digo)
 ## [17. OCI Resource Manager](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/OCI-Resource-Manager)
-## 18. DevSecOps
+## [18. DevSecOps](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/OCI-Resource-Manager)
 ## 19. Serviços de Observabilidade
 
 https://education.oracle.com/race-to-certification-2025#oci
