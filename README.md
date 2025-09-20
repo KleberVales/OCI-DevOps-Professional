@@ -15,7 +15,7 @@
 ## 13. Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI/CD)
 ## 14. Projeto OCI DevOps: Estratégias de Implantação
 ## 15. Projeto OCI DevOps: Implantações com Helm Charts
-## 16. Terraform: Infraestrutura como Código
+## [16. Terraform: Infraestrutura como Código](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Terraform:-Infraestrutura-como-C%C3%B3digo)
 ## 17. OCI Resource Manager
 ## 18. DevSecOps
 ## 19. Serviços de Observabilidade
