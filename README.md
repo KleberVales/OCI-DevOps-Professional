@@ -18,6 +18,6 @@
 ## [16. Terraform: Infraestrutura como Código](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Terraform:-Infraestrutura-como-C%C3%B3digo)
 ## [17. OCI Resource Manager](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/OCI-Resource-Manager)
 ## [18. DevSecOps](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/DevSecOps)
-## [19. Serviços de Observabilidade](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/DevSecOps)
+## [19. Serviços de Observabilidade](https://github.com/KleberVales/OCI-DevOps-Professional/wiki/Servi%C3%A7os-de-Observabilidade)
 
 https://education.oracle.com/race-to-certification-2025#oci
