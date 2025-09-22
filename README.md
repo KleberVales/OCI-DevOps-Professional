@@ -41,4 +41,14 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
 
 ---
 
+## 🛠️ Tecnologias e Conceitos Abordados
+- **DevOps** (CI/CD, automação e pipelines)  
+- **Microsserviços** e Conteinerização (Docker)  
+- **Kubernetes** e **OKE (Oracle Kubernetes Engine)**  
+- **Terraform** e **OCI Resource Manager**  
+- **DevSecOps** (segurança integrada ao ciclo de vida)  
+- **Observabilidade** (logs, métricas e monitoramento)  
+
+---
+
 
