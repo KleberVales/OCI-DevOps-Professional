@@ -21,6 +21,12 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
   - Manage Nodes, Virtual Nodes e Nós Autogerenciados  
   - Configuração de acesso ao Cluster OKE  
   - Armazenamento e Segurança em OKE  
-  - Administração e Gerenciamento de Clusters  
+  - Administração e Gerenciamento de Clusters
+ 
+- **Projetos OCI DevOps**
+  - Conceitos Básicos  
+  - Integração Contínua e Entrega Contínua (CI/CD)  
+  - Estratégias de Implantação  
+  - Helm Charts  
 
 
