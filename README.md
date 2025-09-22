@@ -27,6 +27,10 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
   - Conceitos Básicos  
   - Integração Contínua e Entrega Contínua (CI/CD)  
   - Estratégias de Implantação  
-  - Helm Charts  
+  - Helm Charts
+ 
+- **Infraestrutura como Código**
+  - Terraform  
+  - OCI Resource Manager  
 
 
