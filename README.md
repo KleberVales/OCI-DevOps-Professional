@@ -15,6 +15,12 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
 - **Fundamentos**
   - Introdução ao DevOps  
   - Microsserviços e Conteinerização  
-  - Fundamentos de Kubernetes  
+  - Fundamentos de Kubernetes
+ 
+- **Oracle Kubernetes Engine (OKE)**
+  - Manage Nodes, Virtual Nodes e Nós Autogerenciados  
+  - Configuração de acesso ao Cluster OKE  
+  - Armazenamento e Segurança em OKE  
+  - Administração e Gerenciamento de Clusters  
 
 
