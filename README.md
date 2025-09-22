@@ -51,4 +51,12 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
 
 ---
 
+## 🎯 Objetivo
+- Criar um **guia prático** de DevOps aplicado na OCI.  
+- Servir como material de **estudo para certificações**.  
+- Documentar laboratórios e **projetos hands-on**.  
+- Apoiar outros desenvolvedores interessados em **Cloud + DevOps**.  
+
+---
+
 
