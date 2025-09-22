@@ -35,6 +35,10 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
  
 - **Segurança e Observabilidade**
   - DevSecOps  
-  - Serviços de Observabilidade  
+  - Serviços de Observabilidade
+ 
+👉 Acesse a [Home da Wiki](../../wiki/Home) para navegar por todos os tópicos.
+
+---
 
 
