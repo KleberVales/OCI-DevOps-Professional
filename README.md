@@ -10,3 +10,6 @@ O objetivo é consolidar conhecimentos em **DevOps, Microsserviços, Kubernetes,
 Todo o conteúdo detalhado está disponível na [Wiki do repositório](../../wiki).  
 Lá você encontrará guias estruturados que cobrem desde os fundamentos até práticas avançadas.
 
+### 📑 Estrutura da Wiki
+
+
