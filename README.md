@@ -31,6 +31,10 @@ Lá você encontrará guias estruturados que cobrem desde os fundamentos até pr
  
 - **Infraestrutura como Código**
   - Terraform  
-  - OCI Resource Manager  
+  - OCI Resource Manager
+ 
+- **Segurança e Observabilidade**
+  - DevSecOps  
+  - Serviços de Observabilidade  
 
 
